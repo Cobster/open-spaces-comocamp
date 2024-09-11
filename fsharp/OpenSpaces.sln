@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "OpenSpaces", "OpenSpaces\OpenSpaces.fsproj", "{8879F16E-81B7-41B7-B723-C218CF9BB427}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "OpenSpaces.Tests", "OpenSpaces.Tests\OpenSpaces.Tests.fsproj", "{BBCB8395-F175-46D0-9016-C64A6A122551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8879F16E-81B7-41B7-B723-C218CF9BB427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8879F16E-81B7-41B7-B723-C218CF9BB427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8879F16E-81B7-41B7-B723-C218CF9BB427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8879F16E-81B7-41B7-B723-C218CF9BB427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCB8395-F175-46D0-9016-C64A6A122551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCB8395-F175-46D0-9016-C64A6A122551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCB8395-F175-46D0-9016-C64A6A122551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCB8395-F175-46D0-9016-C64A6A122551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
